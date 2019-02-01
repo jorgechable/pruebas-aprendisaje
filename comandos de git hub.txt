@@ -1,0 +1,16 @@
+"estos comando es para configurar tu git bash en la pc"
+   git init
+    git remote -v
+    git remote add origin link-del-proyecto-git
+    git add .
+    git add --all
+    git commit -m"Proyecto Final"
+    git push -u origin master
+    git push --force origin master
+11867814
+
+"parasubir cambios"
+git status
+git add .
+git commit -m "escribimos los cambios que hicimos"
+git push
